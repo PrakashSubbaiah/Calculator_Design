@@ -1,0 +1,10 @@
+#home{
+  padding-top: 120px;
+  padding-bottom: 120px; 
+  height: auto;
+}    
+
+.border-3 {
+    border-width:3px !important;
+}
+
